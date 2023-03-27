@@ -1,0 +1,74 @@
+[
+  {
+    "UnitType": "Mass",
+    "Id": 1,
+    "Name": "Kilograms",
+    "ShortName": "kg"
+  },
+  {
+    "UnitType": "Mass",
+    "Id": 2,
+    "Name": "Pounds",
+    "ShortName": "lbs"
+  },
+  {
+    "UnitType": "Mass",
+    "Id": 3,
+    "Name": "grams",
+    "ShortName": "g"
+  },
+  {
+    "UnitType": "Mass",
+    "Id": 4,
+    "Name": "Ounces",
+    "ShortName": "oz"
+  },
+  {
+    "UnitType": "Length",
+    "Id": 1,
+    "Name": "Meters",
+    "ShortName": "m"
+  },
+  {
+    "UnitType": "Length",
+    "Id": 2,
+    "Name": "Centimeters",
+    "ShortName": "cm"
+  },
+  {
+    "UnitType": "Length",
+    "Id": 3,
+    "Name": "Miles",
+    "ShortName": "Miles"
+  },
+  {
+    "UnitType": "Length",
+    "Id": 4,
+    "Name": "Feet",
+    "ShortName": "ft"
+  },
+  {
+    "UnitType": "Length",
+    "Id": 5,
+    "Name": "Inches",
+    "ShortName": "in"
+  },
+  {
+    "UnitType": "Temperature",
+    "Id": 1,
+    "Name": "Celcius",
+    "ShortName": "°C"
+  },
+  {
+    "UnitType": "Temperature",
+    "Id": 2,
+    "Name": "Fahrenheit",
+    "ShortName": "°F"
+  },
+  {
+    "UnitType": "Temperature",
+    "Id": 3,
+    "Name": "Kelvin ",
+    "ShortName": "K"
+  }
+]
